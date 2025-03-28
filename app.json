@@ -5,10 +5,10 @@
         "whatsapp",
         "bot"
     ],
-    "stack": "container",
+    "stack": "levanter_27d998ed12354f4525a58d09a556b4646f",
     "env": {
-        "ASENA_SESSION": levanter_27d998ed12354f4525a58d09a556b4646f {
-            "description": "Enter whatsapp web session.",
+        "ASENA_SESSION":  { 
+            "description": "levanter_27d998ed12354f4525a58d09a556b4646f",
             "required": true
         },
         "SUDO": {
