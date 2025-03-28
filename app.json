@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Teddy",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -7,7 +7,7 @@
     ],
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ASENA_SESSION": levanter_27d998ed12354f4525a58d09a556b4646f {
             "description": "Enter whatsapp web session.",
             "required": true
         },
@@ -18,7 +18,7 @@
         "HANDLERS": {
             "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
             "required": true,
-            "value": "."
+            "value": "/"
         },
         "SEND_READ": {
             "description": "send read receipt.",
